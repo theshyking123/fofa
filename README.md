@@ -6,7 +6,7 @@ fofa爬取脚本,普通用户只能爬取50
 
 
 
-二修改文件配置
+二、修改脚本cookie
 
 
 1、先登录fofa网站https://fofa.info/，拿到自己的cookier
